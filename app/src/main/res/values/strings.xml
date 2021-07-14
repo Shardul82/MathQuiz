@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="start_button_text">Start</string>
+    <string name="select_page_heading">Select Question Type</string>
+    <string name="error_toast_text">Select at least one question type</string>
+    <string name="question_no">Question No:</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="wrong_answer">Wrong Answer!</string>
+    <string name="next_button_text">Next</string>
+    <string name="app_start_heading">Learn Math App</string>
+</resources>
